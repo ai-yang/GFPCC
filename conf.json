@@ -1,0 +1,18 @@
+{
+  "data_name": "100K",
+  "random_seed" : 1,
+  "no_models" : 5,
+  "no_client" : 5,
+  "global_epochs" : 5,
+  "local_epochs" : 800,
+  "batch_size" : 1024,
+  "lr" : 0.0015,
+  "lambda" : 0.1,
+  "ITERS_PER_EVAL": 200,
+  "LAMBDA": 1e-6,
+  "recommend_k" : 400,
+  "recommend_m" : 410,
+  "alpha" : 0.0003,
+  "gama" : 0.99,
+  "action_space" : 5
+}
